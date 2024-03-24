@@ -1,5 +1,8 @@
-
 # Article Summarizer
+
+## Live Link 
+
+https://sumz-gpt-4.netlify.app/
 
 Welcome to Contentify! This project aims to revolutionize content creation by providing a user-friendly and efficient platform for creating various types of content, ranging from articles and blogs making them concise to read.
 
